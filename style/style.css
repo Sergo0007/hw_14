@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#userForm{
+    max-width: 800px;
+    padding: 20px;
+    border: 2px solid burlywood;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+body {
+    margin: 30px;
+    text-align: center;
+    color:burlywood;
+    
+}
+
+    #userList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    
+
+ } 
+
+   /*.userCard {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}  */
